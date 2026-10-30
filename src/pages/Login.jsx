@@ -162,7 +162,7 @@ function Login({ onLogin }) {
             </div>
 
             <h1 className="mt-16 text-4xl font-black leading-tight tracking-tight">
-              Tu día empieza con algo nuevo.
+              Vamos a comprar
             </h1>
             <p className="mt-4 max-w-sm text-sm font-medium leading-relaxed text-slate-900/70">
               Inicia sesión para revisar tus compras, seguir tus pedidos y
